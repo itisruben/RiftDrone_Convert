@@ -1,4 +1,4 @@
-# RiftDrone_Convert
+ # RiftDrone_Convert
 
 Background Summary and Introduction:
 
@@ -34,8 +34,8 @@ will prompt the drone to land.
 Video demonstration available at: https://youtu.be/tMW3fa1locU
 
 Requirements:
-Ar.Drone 2.0
-HTC Vive
+Ar.Drone 2.0 | 
+HTC Vive | 
 Unity 3D (Version: 5.5.5 32-bit)
 
 
